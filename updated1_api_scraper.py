@@ -13,7 +13,7 @@ STRATEGY to bypass 1000-result API limit:
 
 RESUME: Re-run anytime — slugs already marked 'done' in Manufacturer_url are skipped.
 """
-
+print('hello---------------------------------')
 import time
 import json
 import random
